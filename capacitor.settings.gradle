@@ -1,0 +1,3 @@
+bash
+    npx cap add android
+    
